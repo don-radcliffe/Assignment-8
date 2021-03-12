@@ -43,9 +43,11 @@ Things related to this course but that probably wouldn't fit in:
 2) Python
 3) More in depth on Shiny apps?
 
+## {data-background=img/blackbirds.jpg data-background-size=cover}
+
 ## Seattle snowday 2021
 ```{r, out.width = "650px", echo = FALSE}
-knitr::include_graphics("snowday.png")
+knitr::include_graphics("img/snowday.png")
 ```
 
 
