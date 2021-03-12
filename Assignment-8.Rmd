@@ -1,0 +1,52 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Don Radcliffe<br>donaldradcliffe91@gmail.com"
+date: "3/12/2021"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About me | Personal
+
+- Born in Wisconsin
+- Favorite food: Hummus
+- Favorite animal: Grizzly bear
+
+## About me | Academic
+
+- University of Wisconsin-Madison
+- Majored in Forest Science and Life Sciences Communication
+
+## About me | Things I've missed in the pandemic
+
+1) Climbing
+2) Meeting new people
+3) Live music
+
+# Data science
+
+## Course topics | Things I've enjoyed learning about
+
+1) Version control
+2) Creating a reprex
+3) Publishing a package
+4) Shiny apps
+5) Also all the other stuff
+
+## Course topics | Things I'd like to learn more about
+
+Things related to this course but that probably wouldn't fit in:
+
+1) Spatial data in R
+2) Python
+3) More in depth on Shiny apps?
+
+## Seattle snowday 2021
+```{r, out.width = "650px", echo = FALSE}
+knitr::include_graphics("snowday.png")
+```
+
+
+
